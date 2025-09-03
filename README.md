@@ -28,8 +28,6 @@ The project addresses the following tasks:
 
 ## Architecture Diagram
 
-<img width="768" height="67" alt="Project2_Media_Stream" src="https://github.com/user-attachments/assets/1110725a-df84-489b-a092-4e031e740f01" />
-
 ```
 [Viewership Logs CSV] --> Kinesis Stream --> EMR Cluster --> Snowflake & S3
                                                  |
