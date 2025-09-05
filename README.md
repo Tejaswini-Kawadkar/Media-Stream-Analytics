@@ -1,11 +1,5 @@
 # Media-Stream-Analytics
 
-Here’s a professional and structured **README** file for your Project 2: Media Stream Analytics. You can save this as `README.md` and include it in your GitHub repository.
-
----
-
-# Media Stream Analytics
-
 ## Project Overview
 
 **Media Stream Analytics** is a real-time data pipeline designed to process viewership logs and related metadata for a media streaming platform. This project leverages AWS services including Kinesis, EMR, Glue, S3, Athena, Airflow (MWAA), Snowflake, and QuickSight to ingest, transform, and visualize streaming and batch data.
